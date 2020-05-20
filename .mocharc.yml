@@ -1,0 +1,5 @@
+require:
+  - './load-babel-test.js'
+ui: bdd-lazy-var/getter
+
+recursive: true
