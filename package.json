@@ -18,7 +18,7 @@
     "dev": "yarn build:watch",
     "example-server": "http-server -p 8001 ./example"
   },
-  "repository": "https://github.com/moneybutton/yours",
+  "repository": "https://github.com/moneybutton/purse",
   "author": "Yours Inc.",
   "license": "Open-BSV",
   "dependencies": {
