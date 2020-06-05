@@ -1,6 +1,6 @@
 {
   "name": "@moneybutton/purse",
-  "version": "0.38.4",
+  "version": "0.38.5",
   "description": "Money Button configuration.",
   "main": "dist/moneybutton-purse.cjs.js",
   "module": "dist/moneybutton-purse.esm.js",
